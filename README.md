@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @jesa
-- 👀 I’m interested in data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: .she.her.
-- ⚡ Fun fact: Is crazy about data and its manipulation
+think like attacker , defend like a defender 
+enthusiast and learner 
+soc analyst L1
 
 <!---
 jecinth011/jecinth011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
